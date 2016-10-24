@@ -5,7 +5,7 @@
   "description": "bluz google module",
   "require": {
     "kvasenko/composer-installer-bluz": "dev-composer-installer",
-    "kvasenko/composer-auth-bluz": "dev-composer-installer"
+    "kvasenko/composer-auth-bluz": "dev-master"
   },
   "extra": {
     "bluz": {
